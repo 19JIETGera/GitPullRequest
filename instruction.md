@@ -20,3 +20,4 @@
 ![Ошибка](https://get.wallhere.com/photo/5092x3438-px-animals-leopard-1098679.jpg)
 
 ![Ошибка](picture.jpg)
+[Ссылка на скачивание git](https://git-scm.com/download/win)
