@@ -6,4 +6,6 @@
 
 > **git add** Ц добавить файл или файлы к следующему коммиту
 
-> **git commit** -m УmessageФ Ц создание коммита.
+> **git commit -m УmessageФ** Ц создание коммита.
+
+![ќшибка](https://get.wallhere.com/photo/5092x3438-px-animals-leopard-1098679.jpg)
