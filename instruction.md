@@ -21,3 +21,5 @@
 
 ![Ошибка](picture.jpg)
 [Ссылка на скачивание git](https://git-scm.com/download/win)
+
+## Основные команды второго семинара по Git
